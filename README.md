@@ -17,6 +17,7 @@
 |akikawahyousiki|https://github.com/akikawaken/akikawahyousiki|RTM-ADDON 秋川標識 |
 |akikawaken|https://github.com/akikawaken/akikawaken||
 |akikawaken.github.io|https://github.com/akikawaken/akikawaken.github.io||
+|blocklocker-translation-jp|https://github.com/akikawaken/blocklocker-translation-jp||
 |climap|https://github.com/akikawaken/climap||
 |DEATH-BINGO|https://github.com/akikawaken/DEATH-BINGO||
 |dice-roll|https://github.com/akikawaken/dice-roll|サイコロを回すだけのバッチファイルです |
