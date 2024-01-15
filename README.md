@@ -24,7 +24,7 @@
 |douro|https://github.com/akikawaken/douro||
 |emptypoint|https://github.com/akikawaken/emptypoint|RTM-ADDON,emptypoint 透明な転轍機を追加します。 |
 |find-file|https://github.com/akikawaken/find-file|findfilefindfilefindfindfilefilefilefindfindfile|
-|hal-hab|https://github.com/akikawaken/hal-hab||
+|hal-hab|https://github.com/akikawaken/hal-hab|Windows Command Promptを使用したCLI形式にて、2~8人でゲームっぽいことができます。 |
 |images|https://github.com/akikawaken/images|wiki senyou gazou okiba katteni tukauna|
 |keburuka|https://github.com/akikawaken/keburuka|RealTrainModのアドオンです。 気動車としてリフトを2種類,レールを2種類追加します。|
 |Rtm_Json_Creator|https://github.com/akikawaken/Rtm_Json_Creator|RealTrainModのアドオン用JSONを簡単に作ることができるやーつ.|
